@@ -30,7 +30,7 @@ Flash WSTD是一家成立于2023年的高端梯子机场，采用Trojan协议，
 ☆高端定制方案
 
 ## 3.IX Rick - 高端小众，稳定性强
-官网地址：[https://xuebi0702.com](https://xuebi0702.com)
+官网地址：[https://rick8888.com](https://rick8888.com)
 
 IX Rick是一家2024年开业的小众精品VPN梯子软件，定位高端，采用Shadowsocks协议，国内BGP服务器入口，多条IEPL专线网络。覆盖五大常用地区，带宽冗余充足，解锁能力优秀（Netflix、Disney+、TikTok、ChatGPT）。适合对节点稳定性要求高的用户，可免费试用3天。
 
